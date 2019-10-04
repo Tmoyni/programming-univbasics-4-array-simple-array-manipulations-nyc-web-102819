@@ -1,1 +1,1 @@
-def artists
+def artists(array, element)
