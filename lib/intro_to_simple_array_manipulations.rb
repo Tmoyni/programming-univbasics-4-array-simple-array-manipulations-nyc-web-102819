@@ -1,3 +1,3 @@
-def artists(array, element)
+def artists(array, string)
   
 end
